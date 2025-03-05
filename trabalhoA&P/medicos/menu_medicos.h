@@ -17,6 +17,7 @@ void menu_medicos()
     {
 
         case 0:
+            system("cls");
             return;
     }
 }

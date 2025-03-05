@@ -17,6 +17,7 @@ void menu_consultas()
     {
 
         case 0:
+            system("cls");
             return;
     }
 }

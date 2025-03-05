@@ -17,6 +17,7 @@ void menu_pacientes()
     {
 
         case 0:
+            system("cls");
             return;
     }
 }
